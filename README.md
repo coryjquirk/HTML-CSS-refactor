@@ -1,5 +1,6 @@
 # Consultation website code Refactoring
 Dev log: 17 September 2020
+<br>
 deployed page: https://coryjquirk.github.io/HTML-CSS-refactor/
 
 I was given the task of reducing this business page's redundant code down to less lines while maintaining the exact same visual look. To do this, I consolidated multiple CSS classes that provided the same visual attributes but could be combined to be used multiple times. I brought the CSS code down from 200 lines to 130 lines. 
