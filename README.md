@@ -1,4 +1,4 @@
-# Consultation website code Refactoring
+# Consultation website code refactoring
 Dev log: 17 September 2020
 <br>
 deployed page: https://coryjquirk.github.io/HTML-CSS-refactor/
