@@ -1,6 +1,5 @@
 # Horiseon Code Refactoring
-
-## 17 September 2020
+Dev log: 17 September 2020
 
 I was given the task of reducing the Horiseon web page's redundant code down to less lines while maintaining the exact same visual look. To do this, I consolidated multiple CSS classes that provided the same visual attributes but could be combined to be used multiple times. I brought the CSS code down from 200 lines to 130 lines. 
 
